@@ -1,6 +1,6 @@
 var playlist = {Radiohead: "Creep"};
 
-function updatePlaylist(playlist, artist, title) {
-  playlist.artist = "title";
+function updatePlaylist(playlist, artistName, songTitle) {
+  playlist.artistName = "songTitle";
   return playlist;
 };
